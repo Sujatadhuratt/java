@@ -1,4 +1,4 @@
-# Pull base image 
+# Pull base images 
 FROM tomcat  
 
 # Maintainer
