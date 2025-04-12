@@ -1,4 +1,4 @@
-# Pull base images from dockerhub
+# Pull base images from dockerhubs
 FROM tomcat  
 
 # Maintainer
